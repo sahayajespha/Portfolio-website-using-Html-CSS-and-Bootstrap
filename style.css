@@ -1,0 +1,58 @@
+li{
+    margin-right: 15px;   
+}
+
+a {font-size: 20px}
+
+.skill-item{
+	color:white;
+}
+.heading{
+	font-size: 40px;
+	color:white;
+	margin-top: 200px;
+}
+.heading2{
+	font-size: 40px;
+	color:white;
+}
+.heading1{
+	font-size: 60px;
+	color:#ffcc00;
+}
+
+.navbar-brand {
+	font-style:italic;
+	font-size:60px;
+	
+	font-weight:bold;
+	font-family: "Sofia", sans-serif;
+}
+.about .content h3{
+	  font-weight:700;
+	  font-size:26px;
+	  color:Tomato;
+	  text-decoration: underline;
+}
+.about .content ul{
+	   background:#19334d ;
+	   color: white;
+       padding: 20px;
+	   }
+.about .content ul li{	
+       padding-bottom:10px;}
+	   
+.about .content ul i{
+    font-size:20px;
+    padding-right:2px;
+    color:#149ddd;}
+	
+.about .content p:last-child{
+     margin-bottom:0;}
+	 
+.about .content p {
+    font-family: "Times New Roman", Times, serif;
+	
+}
+
+	  
